@@ -1,0 +1,132 @@
+hello world 
+
+thath is vim first
+
+:q to quit vim
+
+i to insert mode
+
+:w write the file
+
+:wq write and quit the vim
+
+
+:q! quit without saving
+
+I - Insert in start
+
+A - append after line
+
+o - opens new line behind
+
+a - after one word
+
+w - jump to next word
+
+b - previous word
+
+r - Replace Letter
+
+R - replace mode
+
+cw - change word
+
+8*w - jump this much words
+
+c7w - change this much words
+
+4downarrow - move four lines down
+
+C - delete the entire word
+
+dw - delete word
+
+cc - change line
+
+4dd - delete four lines
+
+8cc - change eight lines
+
+u - Undo
+
+CTRL + R - redo
+
+5u - undo n number of operations
+
+7 ctrl + R - redo n number last things
+
+ciw - change inner word
+
+diw - delete inner word
+
+gg - beginning of the file
+
+G - end of the line
+
+
+:19 - go to certian line
+
+$- end of line
+
+0- beginning of the line
+
+v - visual mode
+
+y - for copy
+
+c - for change in visual
+
+d - Delete in visual mode
+
+y5w - Yank five words
+
+yy - yank line
+
+
+5yy - yank n num of lines
+
+9p - paste n num of times
+
+
+y5w - yank five words
+
+yi) - yank every thing inside the brackets
+
+shift+v - visual line
+
+ctrl + v - visual block
+
+zz - center selected line
+
+> - shift right
+
+< - shift left
+
+= - Indent
+
+/word - search a word
+
+n - next occurenxe
+
+N - previous occurence
+
+:s/old/new/g - replace
+
+:%s/old/new/g - replace everywhere
+
+# - previous next occurence
+
++ = next occurence
+:set number - normal numbers
+
+:set relativenumber - rel. numbers
+
+:colorscheme scheme - change the color scheme
+
+:set tabstop=4 - tab width to four
+
+:set autoindent - auto indentation
+
+:set mouse=a - activate mouse
+
+:set mouse="" - deactivate mouse
